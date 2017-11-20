@@ -1,5 +1,6 @@
 # Postmaster
 Email notifications for ExpressionEngine.
+
 Postmaster is not supported by the original developer, so we're working together to get Postmaster working on EE3.
 
 ## Can you help?
