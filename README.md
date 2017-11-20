@@ -6,7 +6,7 @@ Postmaster is not supported by the original developer, so we're working together
 ## Can you help?
 
 Developers can help by submitting pull requests to fix issues.
-Non-developers can help by testing code and opening issues 
+Non-developers can help by testing code and opening issues.
 
 ## How to help
 
