@@ -1,4 +1,4 @@
 # Postmaster
 Email notifications for ExpressionEngine.
 
-Postmaster is not supported by the original developer. For discussion of a possible EE3 version please see https://github.com/westhouseit/Postmaster/issues/1
+Postmaster is not supported by the original developer. A version with fixes for EE3 is being worked on in the EE3 branch. Please note that this is an Alpha version with many bugs and is not safe to use in Production.
